@@ -20,7 +20,7 @@ const worksButton = document.createElement('button')
 worksButton.id = 'works-button'
 worksButton.textContent = 'Work'
 worksButton.style.cssText = 'background: #ff6500;color:#fff;border:none;padding:8px 8px;border-radius:4px;cursor:pointer;font-family:"Courier New",monospace;font-size:14px;'
-worksButton.onclick = () => window.location.href = 'https://next-js-portfolio-pi.vercel.app/'
+worksButton.onclick = () => window.location.href = 'https://vivektigadi-ja6u.vercel.app/'
 app.appendChild(worksButton)
 
 // Stats
